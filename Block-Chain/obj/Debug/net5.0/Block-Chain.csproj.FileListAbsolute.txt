@@ -1,0 +1,16 @@
+C:\Repos\Block-Chain\Block-Chain\bin\Debug\net5.0\Block-Chain.exe
+C:\Repos\Block-Chain\Block-Chain\bin\Debug\net5.0\Block-Chain.dll
+C:\Repos\Block-Chain\Block-Chain\bin\Debug\net5.0\Block-Chain.deps.json
+C:\Repos\Block-Chain\Block-Chain\bin\Debug\net5.0\Block-Chain.runtimeconfig.json
+C:\Repos\Block-Chain\Block-Chain\bin\Debug\net5.0\Block-Chain.runtimeconfig.dev.json
+C:\Repos\Block-Chain\Block-Chain\bin\Debug\net5.0\ref\Block-Chain.dll
+C:\Repos\Block-Chain\Block-Chain\bin\Debug\net5.0\Block-Chain.pdb
+C:\Repos\Block-Chain\Block-Chain\obj\Debug\net5.0\Block-Chain.csproj.AssemblyReference.cache
+C:\Repos\Block-Chain\Block-Chain\obj\Debug\net5.0\Block-Chain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repos\Block-Chain\Block-Chain\obj\Debug\net5.0\Block-Chain.AssemblyInfoInputs.cache
+C:\Repos\Block-Chain\Block-Chain\obj\Debug\net5.0\Block-Chain.AssemblyInfo.cs
+C:\Repos\Block-Chain\Block-Chain\obj\Debug\net5.0\Block-Chain.csproj.CoreCompileInputs.cache
+C:\Repos\Block-Chain\Block-Chain\obj\Debug\net5.0\Block-Chain.dll
+C:\Repos\Block-Chain\Block-Chain\obj\Debug\net5.0\ref\Block-Chain.dll
+C:\Repos\Block-Chain\Block-Chain\obj\Debug\net5.0\Block-Chain.pdb
+C:\Repos\Block-Chain\Block-Chain\obj\Debug\net5.0\Block-Chain.genruntimeconfig.cache
