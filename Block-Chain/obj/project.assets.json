@@ -8,26 +8,24 @@
     "net5.0": []
   },
   "packageFolders": {
-    "C:\\Users\\a.ziaei\\.nuget\\packages\\": {}
+    "C:\\Users\\Armando\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Repos\\Block-Chain\\Block-Chain\\Block-Chain.csproj",
+      "projectUniqueName": "A:\\Arman Folder\\C#\\Blockchain\\Block-Chain\\Block-Chain.csproj",
       "projectName": "Block-Chain",
-      "projectPath": "C:\\Repos\\Block-Chain\\Block-Chain\\Block-Chain.csproj",
-      "packagesPath": "C:\\Users\\a.ziaei\\.nuget\\packages\\",
-      "outputPath": "C:\\Repos\\Block-Chain\\Block-Chain\\obj\\",
+      "projectPath": "A:\\Arman Folder\\C#\\Blockchain\\Block-Chain\\Block-Chain.csproj",
+      "packagesPath": "C:\\Users\\Armando\\.nuget\\packages\\",
+      "outputPath": "A:\\Arman Folder\\C#\\Blockchain\\Block-Chain\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\a.ziaei\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\Armando\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {

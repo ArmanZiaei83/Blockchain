@@ -2,6 +2,7 @@
 
 using System;
 using System.Collections.Generic;
+using System.Linq;
 using System.Security.Cryptography;
 using System.Text;
 
@@ -25,14 +26,23 @@ namespace Block_Chain.resources
 
         private string CreateHash()
         {
-            var dataForHash = PreviousHash + Transactions + Data;
-
+            var transactionsData = GenerateTransactionsData();
+            var dataForHash = PreviousHash + transactionsData + Data;
             using var hashCreator = SHA256.Create();
             var hashBytes =
                 hashCreator.ComputeHash(Encoding.UTF8.GetBytes(dataForHash));
             var hash = Encoding.Default.GetString(hashBytes);
             Console.WriteLine(hash);
             return hash;
+        }
+
+        private string GenerateTransactionsData()
+        {
+            return Transactions
+                .Aggregate("", (current, transaction) => current +
+                    (transaction.Buyer +
+                     transaction.Seller +
+                     transaction.Price));
         }
     }
 }

@@ -14,3 +14,19 @@ C:\Repos\Block-Chain\Block-Chain\obj\Debug\net5.0\Block-Chain.dll
 C:\Repos\Block-Chain\Block-Chain\obj\Debug\net5.0\ref\Block-Chain.dll
 C:\Repos\Block-Chain\Block-Chain\obj\Debug\net5.0\Block-Chain.pdb
 C:\Repos\Block-Chain\Block-Chain\obj\Debug\net5.0\Block-Chain.genruntimeconfig.cache
+A:\Arman Folder\C#\Blockchain\Block-Chain\bin\Debug\net5.0\Block-Chain.exe
+A:\Arman Folder\C#\Blockchain\Block-Chain\bin\Debug\net5.0\Block-Chain.deps.json
+A:\Arman Folder\C#\Blockchain\Block-Chain\bin\Debug\net5.0\Block-Chain.runtimeconfig.json
+A:\Arman Folder\C#\Blockchain\Block-Chain\bin\Debug\net5.0\Block-Chain.runtimeconfig.dev.json
+A:\Arman Folder\C#\Blockchain\Block-Chain\bin\Debug\net5.0\Block-Chain.dll
+A:\Arman Folder\C#\Blockchain\Block-Chain\bin\Debug\net5.0\ref\Block-Chain.dll
+A:\Arman Folder\C#\Blockchain\Block-Chain\bin\Debug\net5.0\Block-Chain.pdb
+A:\Arman Folder\C#\Blockchain\Block-Chain\obj\Debug\net5.0\Block-Chain.csproj.AssemblyReference.cache
+A:\Arman Folder\C#\Blockchain\Block-Chain\obj\Debug\net5.0\Block-Chain.GeneratedMSBuildEditorConfig.editorconfig
+A:\Arman Folder\C#\Blockchain\Block-Chain\obj\Debug\net5.0\Block-Chain.AssemblyInfoInputs.cache
+A:\Arman Folder\C#\Blockchain\Block-Chain\obj\Debug\net5.0\Block-Chain.AssemblyInfo.cs
+A:\Arman Folder\C#\Blockchain\Block-Chain\obj\Debug\net5.0\Block-Chain.csproj.CoreCompileInputs.cache
+A:\Arman Folder\C#\Blockchain\Block-Chain\obj\Debug\net5.0\Block-Chain.dll
+A:\Arman Folder\C#\Blockchain\Block-Chain\obj\Debug\net5.0\ref\Block-Chain.dll
+A:\Arman Folder\C#\Blockchain\Block-Chain\obj\Debug\net5.0\Block-Chain.pdb
+A:\Arman Folder\C#\Blockchain\Block-Chain\obj\Debug\net5.0\Block-Chain.genruntimeconfig.cache

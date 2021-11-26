@@ -9,8 +9,8 @@
             Price = price;
         }
 
-        private string Seller { get; }
-        private string Buyer { get; }
-        private double Price { get; }
+        public string Seller { get; }
+        public string Buyer { get; }
+        public double Price { get; }
     }
 }

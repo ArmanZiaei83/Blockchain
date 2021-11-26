@@ -21,6 +21,7 @@ namespace Block_Chain
             var block =
                 new Block(new List<Transaction>
                     {new(FirstUser, SecondUser, 50)});
+            
             _blockchain.AddBlock(block);
 
             PrintChainValidation(_blockchain);
